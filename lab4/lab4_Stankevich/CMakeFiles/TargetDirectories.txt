@@ -1,0 +1,4 @@
+/home/ivan/Programming/AK_GIT/lab4/CMakeFiles/rebuild_cache.dir
+/home/ivan/Programming/AK_GIT/lab4/CMakeFiles/add.dir
+/home/ivan/Programming/AK_GIT/lab4/CMakeFiles/edit_cache.dir
+/home/ivan/Programming/AK_GIT/lab4/CMakeFiles/main.dir
